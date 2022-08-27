@@ -23,4 +23,4 @@ I am a PhD candidate at the Ohio State University, Department of Economics.
 
 My primary research areas are Health Economics and Labor Economics. My current work focuses on Adverse selection issues in the US health insurance markets.
 
-Email: Cao.851@osu.edu
+Contact: Cao.851@osu.edu
