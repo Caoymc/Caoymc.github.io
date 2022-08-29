@@ -94,7 +94,11 @@ contact_note: >
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
+<<<<<<< HEAD
 google_site_verification: <meta name="google-site-verification" content="a_lJwcGd-uy7QJ-BPrCa4GdkMkmDkXFZ1XRuGEstIzo" />
+=======
+google_site_verification: BM_YSRrlceYLpBpxrOB72eXOSFwQw01SsKzAiJi3mO4
+>>>>>>> 31c34e563f9aa40f9748f4d3f39de5e7290fd7ce
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
@@ -285,7 +289,7 @@ jekyll-diagrams:
 
 enable_google_analytics:    false  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
-enable_google_verification: false  # enables google site verification
+enable_google_verification: true  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
 enable_masonry:             true   # enables automatic project cards arangement
 enable_math:                true   # enables math typesetting (uses MathJax)
