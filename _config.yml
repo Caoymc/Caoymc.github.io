@@ -95,10 +95,7 @@ google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 <<<<<<< HEAD
-google_site_verification: <meta name="google-site-verification" content="a_lJwcGd-uy7QJ-BPrCa4GdkMkmDkXFZ1XRuGEstIzo" />
-=======
 google_site_verification: BM_YSRrlceYLpBpxrOB72eXOSFwQw01SsKzAiJi3mO4
->>>>>>> 31c34e563f9aa40f9748f4d3f39de5e7290fd7ce
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
