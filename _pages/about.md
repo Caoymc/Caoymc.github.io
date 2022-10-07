@@ -19,9 +19,9 @@ social: false  # includes social icons at the bottom of the page
 ---
 Welcome!
 
-I am a Ph.D. candidate at the Ohio State University Department of Economics.
+I am a job market candidate at the Department of Economics, Ohio State University.
 
-My primary research areas are Health Economics and Labor Economics. My current work focuses on Adverse selection issues in the US health insurance markets.
+My primary research areas are Health and Labor Economics. My current work focuses on adverse selection issues in the US health insurance markets.
 
 I am on the 2022-23 job market and will be available for interviews.
 
