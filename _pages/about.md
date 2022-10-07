@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: the.jpeg
+  image: photo.jpeg
   image_cicular: false # crops the image to make it circular
   address: >
     <p>369 Arps Hall</p>
@@ -19,8 +19,10 @@ social: false  # includes social icons at the bottom of the page
 ---
 Welcome!
 
-I am a PhD candidate at the Ohio State University, Department of Economics.
+I am a Ph.D. candidate at the Ohio State University Department of Economics.
 
 My primary research areas are Health Economics and Labor Economics. My current work focuses on Adverse selection issues in the US health insurance markets.
+
+I am on the 2022-23 job market and will be available for interviews.
 
 Contact: Cao.851@osu.edu
