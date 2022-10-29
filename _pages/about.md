@@ -21,8 +21,8 @@ Welcome!
 
 I am a job market candidate at the Department of Economics, Ohio State University.
 
-My primary research areas are Health and Labor Economics. My current work focuses on adverse selection issues in the US health insurance markets.
+My research focuses on policy-relevant empirical questions in the fields of health and labor economics. I am particularly interested in questions related to adverse selection in US health insurance market. 
 
-I am on the 2022-23 job market and will be available for interviews.
+I am on the 2022-2023 job market and will be available for interviews at the ASSA and EEA meetings.
 
 Contact: Cao.851@osu.edu
