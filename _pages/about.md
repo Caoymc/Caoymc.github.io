@@ -21,7 +21,7 @@ Welcome!
 
 I am a job market candidate at the Department of Economics, Ohio State University.
 
-My research focuses on policy-relevant empirical questions in the fields of health and labor economics. 
+My research focuses on policy-relevant empirical questions in the fields of health and labor economics. In my research, I often combine unique administrative data in medical claims and unemployment insurance with reduced-form and structural methods.
 
 I am on the 2022-2023 job market and will be available for interviews at the ASSA and EEA meetings.
 
