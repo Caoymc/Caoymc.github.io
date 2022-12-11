@@ -15,7 +15,7 @@ nav_order: 4
         <h5 class="font-weight-bold">Principles of Macroeconomics</h5>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Spring 2020: Teaching Assistant</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2020: Teaching Assistant ---Evaluation:4.39(department average:4.04)</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">For Dr. Darcy Hartman.</li>
     </ul>

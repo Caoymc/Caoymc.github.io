@@ -42,7 +42,9 @@
     - year: Working Papers
       items: 
         - Earning Dynamics and Selection in Health Insurance Market (Job Market Paper)
-        - Impact of low skilled immigrants on native teen fertility
+          --- Supported by William Green Memorial Fellowship
+        - Impact of low skilled immigrants on native teen fertility 
+          --- Rewared:Tom Kniesner and Debbie Freund Award
     - year: Work in Progress
       items: 
         - The Dynamic Efficiency of Changes in Medicaid Generosity, with Kurt Lavetti and Nicolas Ziebarth
@@ -75,6 +77,9 @@
 - title: Seminar Presentations
   type: time_table
   contents:
+    - title: Forum on Aging and Health Economics
+      institution: School of Finance, Nankai University
+      year: 2022
     - title: Microeconomics Seminar
       institution: The Ohio State University
       year: 2022
@@ -112,4 +117,4 @@
 - title: Other Interests
   type: list
   contents:
-    - I discuss economics with my cat.
+    - Cat and coffee.
