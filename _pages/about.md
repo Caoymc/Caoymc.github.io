@@ -25,4 +25,6 @@ My research focuses on policy-relevant empirical questions in the fields of heal
 
 I am on the 2022-2023 job market and will be available for interviews at the ASSA and EEA meetings.
 
-Contact: Cao.851@osu.edu
+Check out my [teaching statement]() and [research statement]()
+
+Contact: [Cao.851@osu.edu](Cao.851@osu.edu)
